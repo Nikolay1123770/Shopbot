@@ -1,0 +1,4 @@
+aiogram
+Flask
+requests
+python-dotenv
